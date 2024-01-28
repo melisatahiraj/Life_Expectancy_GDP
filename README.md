@@ -3,8 +3,8 @@
 ![correlation_1](https://github.com/melisatahiraj/Life_Expectancy_GDP/assets/147450801/175b6d09-b7ec-4913-aaef-8fc072d3ae95)
 
 ## Table of Contents
-    * life_expectancy_gdp.ipynb - Jupyter Notebook contains the main analysis and code provides insights into Life Expectancy and GDP
-    * Images - Graph Plots images are displayed independently to provide a distinct visual representation
+    life_expectancy_gdp.ipynb - Jupyter Notebook contains the main analysis and code provides insights into Life Expectancy and GDP
+    Images - Graph Plot images are displayed independently to provide a distinct visual representation
 
 <br>
 
