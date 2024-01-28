@@ -1,9 +1,12 @@
 # Life_Expectancy_GDP
 
+![correlation_1](https://github.com/melisatahiraj/Life_Expectancy_GDP/assets/147450801/175b6d09-b7ec-4913-aaef-8fc072d3ae95)
+
 ## Table of Contents
-    * life_expectancy_gdp.ipynb - Jupyter Notebook contains the main analysis and code
+    * life_expectancy_gdp.ipynb - Jupyter Notebook contains the main analysis and code provides insights into Life Expectancy and GDP
     * Images - Graph Plots images are displayed independently to provide a distinct visual representation
 
+<br>
 
 ## Overview
 
@@ -31,13 +34,14 @@
 
 - Among the six countries, five display a uniform distribution with minimal data variability, pointing to specific conditions influencing Life Expectancy
 - In contrast, Zimbabwe stands out as the only country exhibiting a wide range in data distribution and a median lower than all the other countries, suggesting there are distinct conditions affecting Zimbabwe’s Life Expectancy compared to the rest of the countries
+
 <br>
 
 ## Further Analysis
 
 What social conditions and factors contribute to the fluctuations of Life Expectancy in Zimbabwe? <br>
 What are some of the factors that account for China's rapid GDP upswing?
-<br>
+
 <br>
 
 ## References
