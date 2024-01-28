@@ -1,6 +1,6 @@
 # Life_Expectancy_GDP
 
-![correlation_1](https://github.com/melisatahiraj/Life_Expectancy_GDP/assets/147450801/175b6d09-b7ec-4913-aaef-8fc072d3ae95)
+![correlation_1](https://github.com/melisatahiraj/Life_Expectancy_GDP/assets/147450801/6175bb1c-b5db-42f2-a151-b8e9e6b46577)
 
 ## Table of Contents
     Images - Graph Plot images are displayed independently to provide a distinct visual representation
